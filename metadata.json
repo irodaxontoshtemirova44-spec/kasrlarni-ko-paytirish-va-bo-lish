@@ -1,0 +1,6 @@
+{
+  "name": "Kasrlar Olami - 5-sinf Matematika",
+  "description": "5-sinf o'quvchilari uchun aralash va oddiy kasrlarni o'rganish, mashq qilish va o'yinlar orqali mustahkamlash interaktiv platformasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
